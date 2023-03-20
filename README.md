@@ -23,7 +23,9 @@
     - Link 2: https://www.aliexpress.com/item/33014138540.html
 - Pimoroni HyperPixel 4.0 Square
     - Non-touch
-    - Quantity 1X
+    - Quantity 1x
     - Link 1: https://shop.pimoroni.com/products/hyperpixel-4-square
     - Link 2: https://www.adafruit.com/product/4498
-- 
+- Raspberry Pi 4B
+    - Quantity: 2x
+- Servo Board
